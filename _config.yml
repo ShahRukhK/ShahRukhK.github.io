@@ -8,7 +8,7 @@ remote_theme: ShahRukhK/jekyll-theme-minimal-resume
 title: Shah-Rukh Khimani
 description: Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# url: shahrukhk.github.io
 
 # User settings
 username: Shah-Rukh Khimani
