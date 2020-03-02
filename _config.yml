@@ -1,5 +1,5 @@
 #build settings:
-markdown
+markdown: kramdown #using github pages tutorial recommended syntax
 #original theme:
 #theme: jekyll-theme-cayman
 remote_theme: ShahRukhK/jekyll-theme-minimal-resume
