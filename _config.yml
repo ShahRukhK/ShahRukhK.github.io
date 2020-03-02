@@ -4,13 +4,13 @@ markdown: kramdown #using github pages tutorial recommended syntax
 remote_theme: ShahRukhK/resume_jekyll
 
 # Site settings
-title: Shah-Rukh Khimani
+title: Under Construcion
 description: Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: shahrukhk.github.io
 
 # User settings
-username: Shah-Rukh Khimani
+username: IN Progress
 user_description: I'm a nomad Computer Scientist, always searching for the next challenge; no task is too scary nor too difficult.
 user_title: Computer Sciecnetist, Developer, Philosopher
 email: skhimani@outlook.com
