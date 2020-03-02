@@ -2,7 +2,7 @@
 markdown: kramdown #using github pages tutorial recommended syntax
 #original theme:
 #theme: jekyll-theme-cayman
-remote_theme: murraco/jekyll-theme-minimal-resume
+remote_theme: ShahRukhK/jekyll-theme-minimal-resume
 
 # Site settings
 title: Shah-Rukh Khimani
